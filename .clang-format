@@ -1,0 +1,9 @@
+BasedOnStyle: LLVM
+
+BracketAlignmentStyle: Align
+
+DerivePointerAlignment: True
+PointerAlignment: Left
+
+TabWidth: '4'
+UseTab: ForIndentation
